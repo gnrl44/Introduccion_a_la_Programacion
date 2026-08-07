@@ -1,3 +1,0 @@
-C:/Users/aaria/CLionProjects/Practica #1/cmake-build-debug/CMakeFiles/Practica__1.dir
-C:/Users/aaria/CLionProjects/Practica #1/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/aaria/CLionProjects/Practica #1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
