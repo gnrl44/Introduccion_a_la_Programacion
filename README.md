@@ -1,2 +1,2 @@
-# Programaci-n-EIY400
+# Introducción a la Programación
 Introducción a la Programación
