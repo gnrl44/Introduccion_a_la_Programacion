@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/aaria/CLionProjects/Practica #1/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\C__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -fmodules-ts -fmodule-mapper=CMakeFiles\\Practica__1.dir\\main.cpp.obj.modmap -MD -fdeps-format=p1689r5 -x c++ -o CMakeFiles\\Practica__1.dir\\main.cpp.obj -c \"C:\\Users\\aaria\\CLionProjects\\Practica #1\\main.cpp\"",
+  "file": "C:/Users/aaria/CLionProjects/Practica #1/main.cpp",
+  "output": "C:/Users/aaria/CLionProjects/Practica #1/cmake-build-debug/CMakeFiles/Practica__1.dir/main.cpp.obj"
+}
+]
